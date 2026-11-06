@@ -130,3 +130,11 @@ DOI: [10.1109/FNWF66845.2025.11317187](https://doi.org/10.1109/FNWF66845.2025.11
 This repository presents an overview of the research, including the system architecture, implementation methodology, experimental setup, and key findings.
 
 The work demonstrates how lightweight edge applications can provide real-time infrastructure-level monitoring in virtualized Open RAN environments.
+
+## 💻 Code Availability
+
+The implementation and experimental environment used in this work are maintained separately and are not included in this public repository.
+
+This repository focuses on documenting the proposed architecture, implementation workflow, experimental methodology, and results presented in the IEEE FNWF 2025 paper.
+
+The complete implementation involves modifications to the OAI-based vCU/vDU environment, EdgeRIC modules, ZeroMQ communication, Protobuf serialization, and the custom µApp.
